@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Scrape Impact Fest 2022": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "PWDEBUG": "console"
+      }
+    }
+  }
+}
